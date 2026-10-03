@@ -4415,7 +4415,7 @@
   "team_invite_subtitle": "Invitez des membres d'équipe à collaborer et à planifier ensemble",
   "team_onboarding_details_subtitle": "Ajoutez le nom de votre équipe et créez une URL unique pour votre équipe",
   "no_available_users_found_input": "Aucun utilisateur disponible trouvé",
-  "repeats_num_times": "{count, plural, one {Répéter {{count}} fois} other {Répéter {{count}} fois}}",
+  "repeats_num_times": "Se répète {{count}} fois",
   "view_booking_details": "Voir les détails de la réservation",
   "cannot_delete_event_type": "Ce type d'événement ne peut pas être supprimé",
   "delete_event_type_confirmation": "Êtes-vous sûr de vouloir supprimer ce type d'événement ?",

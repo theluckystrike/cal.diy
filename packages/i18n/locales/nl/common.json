@@ -3249,7 +3249,7 @@
   "no_availability_shown_to_bookers": "Als je niemand toewijst voor dit evenement, zal er geen beschikbaarheid worden getoond aan boekers.",
   "go_back_and_assign": "Ga terug en wijs toe",
   "leave_without_assigning": "Vertrekken zonder toe te wijzen",
-  "signing_up_terms": "Door verder te gaan, ga je akkoord met onze <0>Voorwaarden</0> en <1>Privacybeleid</1>.",
+  "signing_up_terms": "Door verder te gaan, ga je akkoord met de <0>Voorwaarden</0> en het <1>Privacybeleid</1> van {{appName}}.",
   "proceeding_agreement": "Door verder te gaan ga je akkoord met onze",
   "terms": "Voorwaarden",
   "always_show_x_days": "Altijd {{x}} dagen beschikbaar",

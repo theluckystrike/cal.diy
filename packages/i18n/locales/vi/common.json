@@ -3201,7 +3201,7 @@
   "no_availability_shown_to_bookers": "Nếu bạn không chỉ định ai cho sự kiện này, sẽ không có sẵn lịch để người đặt xem.",
   "go_back_and_assign": "Quay lại và chỉ định",
   "leave_without_assigning": "Rời đi mà không chỉ định",
-  "signing_up_terms": "Bằng cách tiếp tục, bạn đồng ý với <0>Điều khoản sử dụng</0> và <1>Chính sách bảo mật</1> của chúng tôi",
+  "signing_up_terms": "Bằng cách tiếp tục, bạn đồng ý với <0>Điều khoản sử dụng</0> và <1>Chính sách bảo mật</1> của {{appName}}.",
   "proceeding_agreement": "Bằng việc tiếp tục, bạn đồng ý với",
   "terms": "Điều khoản",
   "always_show_x_days": "Luôn hiển thị {{x}} ngày có sẵn",

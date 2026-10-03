@@ -3224,7 +3224,7 @@
   "no_availability_shown_to_bookers": "Ako nikoga ne dodelite za ovaj događaj, neće biti dostupnosti prikazane za rezervacije.",
   "go_back_and_assign": "Vratite se i dodelite",
   "leave_without_assigning": "Napustite bez dodeljivanja",
-  "signing_up_terms": "Nastavljajući, slažete se sa našim <0>Uslovima korišćenja</0> i <1>Pravilima o privatnosti</1>",
+  "signing_up_terms": "Nastavljajući, slažete se sa <0>Uslovima korišćenja</0> i <1>Pravilima o privatnosti</1> usluge {{appName}}.",
   "proceeding_agreement": "Nastavljanjem prihvatate naše",
   "terms": "Uslove korišćenja",
   "always_show_x_days": "Uvek dostupno {{x}} dana",

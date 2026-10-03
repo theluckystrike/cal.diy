@@ -420,7 +420,7 @@
   "hour_short": "h",
   "minute_one_short": "{{count}} min",
   "hour_one_short": "{{count}} h",
-  "signing_up_terms": "Nastavljajući slažete se s našim <0>Uvjetima korištenja</0> i <1>Pravilima o privatnosti</1>",
+  "signing_up_terms": "Nastavljajući, slažete se s <0>Uvjetima korištenja</0> i <1>Pravilima o privatnosti</1> usluge {{appName}}.",
   "travel_schedule": "Putni raspored",
   "travel_schedule_description": "Planirajte svoju putovanje unaprijed kako biste zadržali svoj postojeći raspored u drugoj vremenskoj zoni i spriječili rezervaciju u ponoć.",
   "schedule_timezone_change": "Promjena vremenske zone u rasporedu",

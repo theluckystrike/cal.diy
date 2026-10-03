@@ -3249,7 +3249,7 @@
   "no_availability_shown_to_bookers": "Se não atribuir ninguém a este evento, não será apresentada disponibilidade aos responsáveis da reserva.",
   "go_back_and_assign": "Voltar e atribuir",
   "leave_without_assigning": "Sair sem atribuir",
-  "signing_up_terms": "Ao continuar, você concorda com os nossos <0>Termos</0> e <1>Política de Privacidade</1>.",
+  "signing_up_terms": "Ao continuar, você concorda com os <0>Termos</0> e a <1>Política de Privacidade</1> de {{appName}}.",
   "proceeding_agreement": "Ao prosseguir, você concorda com nossos",
   "terms": "Termos",
   "always_show_x_days": "Sempre {{x}} dias disponíveis",
